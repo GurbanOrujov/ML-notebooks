@@ -4,7 +4,6 @@ The data is taken from UCI machine learning repository
 The dataset contains the following features:
 
 Ambient temperature (AT): C
-
 Ambient pressure (AP): mbar
 Ambient humidity (AH): (%)
 Air filter difference pressure (AFDP): mbar
