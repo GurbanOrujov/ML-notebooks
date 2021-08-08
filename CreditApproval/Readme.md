@@ -1,15 +1,6 @@
-In this exercise readings of 10 different censors are used to predict the nitrogen oxide (Nox) emissions of a gas turbine located in Turkey. The data is taken from UCI machine learning repository
+In this exercise Japanese credit screening dataset is used to predict whether people were granted credit or not. 
+The dataset is taken from UCI machine learning repository
 
-The dataset contains the following features:
-
-Ambient temperature (AT): C
-Ambient pressure (AP): mbar
-Ambient humidity (AH): (%)
-Air filter difference pressure (AFDP): mbar
-Gas turbine exhaust pressure (GTEP): mbar
-Turbine inlet temperature (TIT): C
-Turbine after temperature (TAT): C
-Compressor discharge pressure (CDP): mbar
-Turbine energy yield (TEY): MWH
-Carbon monoxide (CO): mg/m3
-Nitrogen oxides (NOx): mg/m3 - target variable
+I used Random Forest algorithm on a dataset with 15 features (continuous and cathegoric) to predict the credit approval outcome.
+The feature names in the original dataset purposes were changed to meaningless symbols to prodect data confidentiality. 
+Therefore, all feature names are ignored.
